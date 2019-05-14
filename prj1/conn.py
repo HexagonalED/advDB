@@ -35,7 +35,7 @@ for r in rows :
     print(q)
     cur.execute(q)
 
-
+x
     #print(token)
     #rws = word_tokenize(r)
     #print(rws)
